@@ -3,7 +3,7 @@
     <title>Weyway ♡</title>
     <link href="https://weyway.com/feed.xml" rel="self" />
     <link href="https://weyway.com" />
-    <updated>2025-12-09T01:35:34+00:00</updated>
+    <updated>2026-02-16T01:55:12+00:00</updated>
     <author>
         <name>W&#x27;eylyn Mavourneen</name>
     </author>
@@ -3068,6 +3068,153 @@
 </li>
 </ul>
 </div>
+<p><button class="collapsible">🆕 Mystic Knight <figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/20/Phantom_mystic_knight_sprite.png" alt="" width="21" height="32" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/20/responsive/Phantom_mystic_knight_sprite-xs.png 640w ,https://weyway.com/media/posts/20/responsive/Phantom_mystic_knight_sprite-sm.png 768w ,https://weyway.com/media/posts/20/responsive/Phantom_mystic_knight_sprite-md.png 1024w ,https://weyway.com/media/posts/20/responsive/Phantom_mystic_knight_sprite-lg.png 1366w ,https://weyway.com/media/posts/20/responsive/Phantom_mystic_knight_sprite-xl.png 1600w ,https://weyway.com/media/posts/20/responsive/Phantom_mystic_knight_sprite-2xl.png 1920w"></figure></button></p>
+<div class="colcontent">
+<p>Suffused with a mystic knight's diligence and arcane prowess, these memories are key to imbuing your weaponry with potent magicks.</p>
+<p><strong>Unlock:</strong> Purchase from Expedition Antiquarian - 1000 Silver Pieces</p>
+<p><strong>Support Actions</strong></p>
+<ul>
+<li><strong>Sundering Spellblade</strong>
+<ul>
+<li>Delivers an attack with a potency of 200.</li>
+<li>Honed Spellblade Potency: 300</li>
+<li>Potency scales with item level.</li>
+<li>Additional Effect: 20% chance to Petrify the target.
+<ul>
+<li>Petrify Effect: Incapacitated upon taking damage (Duration 10 seconds)</li>
+</ul>
+</li>
+<li>Shares recast with <em>Holy Spellblade</em> and <em>Blazing Spellblade.</em></li>
+</ul>
+</li>
+<li><strong>Magic Shell</strong>
+<ul>
+<li>Creates a barrier around self or target party member. Absorbs damage equivalent to 20% of your maximum HP.</li>
+<li>Duration: 60s</li>
+<li>When the barrier is completely absorbed, you get <em>Honed Spellblade</em>.
+<ul>
+<li>Honed Spellblade Effect: Increase the damage dealt by the next Spellblade.</li>
+<li>Duration: 30s</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Holy Spellblade</strong>
+<ul>
+<li>Delivers an attack with a potency of 300.</li>
+<li>Potency increases to 500 when used against undead enemies.</li>
+<li>Honed Spellblade Potency: 400</li>
+<li>Spellblade potency increases to 600 when used against undead enemies.</li>
+<li>Potency scales with Item level.</li>
+<li>Shares recast timer with <em>Sundering Spellblade</em> and <em>Blazing Spellblade.</em></li>
+</ul>
+</li>
+<li><strong>Blazing Spellblade</strong>
+<ul>
+<li>Delivers an attack with a potency of 200.</li>
+<li>Honed Spellblade Potency: 300</li>
+<li>Potency scales with item level</li>
+<li>Additional Effect: Increases the target's damage taken by 5% (Duration 70 seconds)</li>
+<li>Additional Effect: Increases damage dealt by 5% (Duration 70 seconds)</li>
+<li>Shares a recast timer with <em>Sundering Spellblade</em> and <em>Holy Spellblade.</em></li>
+</ul>
+</li>
+</ul>
+</div>
+<p><button class="collapsible">🆕 Gladiator <figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/20/Phantom_gladiator_sprite.png" alt="" width="21" height="32" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/20/responsive/Phantom_gladiator_sprite-xs.png 640w ,https://weyway.com/media/posts/20/responsive/Phantom_gladiator_sprite-sm.png 768w ,https://weyway.com/media/posts/20/responsive/Phantom_gladiator_sprite-md.png 1024w ,https://weyway.com/media/posts/20/responsive/Phantom_gladiator_sprite-lg.png 1366w ,https://weyway.com/media/posts/20/responsive/Phantom_gladiator_sprite-xl.png 1600w ,https://weyway.com/media/posts/20/responsive/Phantom_gladiator_sprite-2xl.png 1920w"></figure></button></p>
+<div class="colcontent">
+<p>This fierce, indomitable gladiator's recollections promise the mastery of myriad offensive and defensive skills.</p>
+<p><strong>Unlock:</strong> Purchase from Expedition Antiquarian - 1600 Gold Pieces</p>
+<p><strong>Support Actions</strong></p>
+<ul>
+<li><strong>Finisher</strong>
+<ul>
+<li>Delivers an attack to the target.
+<ul>
+<li>60% chance for an attack with a potency of 600, the chance increasing by 15% for every stack of <em>Finishing Fervor.</em></li>
+<li>20% chance for an attack with a potency of 1000, the chance increasing by 20% for every stack of <em>Finishing Fervor</em>.</li>
+<li>20% chance for the attack to miss, the chance decreasing by 5% for every stack of <em>Finishing Fervor.</em></li>
+</ul>
+</li>
+<li>Potency scales with item level.</li>
+<li>Additional Effect: 25% chance to kill the target instantly, with some exceptions.</li>
+</ul>
+</li>
+<li><strong>Defend</strong>
+<ul>
+<li>Reduces damage taken by 50%. (Duration 5 seconds)</li>
+<li>Additional Effect: Grants a stack of <em>Finishing Fervor</em> upon taking reduced damage.
+<ul>
+<li>Maximum Stacks: 4 (Gained the more hits land on you in the duration of 5 seconds)</li>
+<li>Duration: 120s</li>
+</ul>
+</li>
+<li>Removes a stack of <em>Finishing Fervor</em> upon taking damage when the action is not on cooldown. (Use the action immediately after it goes off cooldown and damage is about to hit you or the stacks will drop off - Rewards mitigating damage and keeping it on cooldown at all times)</li>
+</ul>
+</li>
+<li><strong>Long Reach</strong>
+<ul>
+<li>Delivers an attack with a potency of 400.</li>
+<li>Potency scales with item level.</li>
+</ul>
+</li>
+<li><strong>Bladeblitz</strong>
+<ul>
+<li>Delivers an attack with a potency of 600 to all nearby enemies.</li>
+<li>Potency scales with item level.</li>
+</ul>
+</li>
+</ul>
+</div>
+<p><button class="collapsible">🆕 Dancer <figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/20/Phantom_dancer_sprite.png" alt="" width="21" height="32" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/20/responsive/Phantom_dancer_sprite-xs.png 640w ,https://weyway.com/media/posts/20/responsive/Phantom_dancer_sprite-sm.png 768w ,https://weyway.com/media/posts/20/responsive/Phantom_dancer_sprite-md.png 1024w ,https://weyway.com/media/posts/20/responsive/Phantom_dancer_sprite-lg.png 1366w ,https://weyway.com/media/posts/20/responsive/Phantom_dancer_sprite-xl.png 1600w ,https://weyway.com/media/posts/20/responsive/Phantom_dancer_sprite-2xl.png 1920w"></figure></button></p>
+<div class="colcontent">
+<p>Absorb the memories of an exalted, expressive dancer to replicate their deft footwork and bequeath yourself a range of boons. </p>
+<p><strong>Unlock:</strong> Purchase from Expedition Antiquarian - 1000 Silver Pieces</p>
+<p><strong>Support Actions</strong></p>
+<ul>
+<li><strong>Dance</strong>
+<ul>
+<li>Grants <em>Poised</em> to <em>Sword Dance, Tempted</em> to <em>Tango, Jitterbugged, or Willing </em>to <em>Waltz</em>, allowing the execution of an action depending on the effect granted.
+<ul>
+<li>Phantom Sword Dance Effect: Delivers an attack with high potency.</li>
+<li>Tempting Tango Effect: Deals unaspected damage and freezes time.</li>
+<li>Jitterbug Effect: Deals unaspected damage,  absorbing a portion of the damage dealth as HP, and afflicting the target with <em>Paralysis</em>.</li>
+<li>Mystery Waltz Effect: Deals unaspected damage, afflicting the target with <em>Blind</em>, restoring your MP.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Quickstep</strong>
+<ul>
+<li>Increases evasion by 20%. (Duration 90 seconds)</li>
+<li>Additional Effect: Grants <em>Quicker Step</em> to self and nearby party members when executed near the <em>Knowledge Crystal (Another long duration party buff)</em>
+<ul>
+<li>Quicker Step Effect: Increases damage dealt by 2%.</li>
+<li>Duration 30 minutes.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Steadfast Stance</strong>
+<ul>
+<li>Grants Steadfast Stance.</li>
+<li>Steadfast Stance Effect: Grants a barrier that absorbs damage equal to 10% of your maximum HP (Duration 30 seconds)</li>
+</ul>
+</li>
+<li><strong>Mesmerize</strong>
+<ul>
+<li>Afflicts the target with <em>Enamored</em>, reducing damage dealt by 40%. (Duration 4 seconds, time it well)</li>
+<li>Additional Effect: Afflicts the target with <em>Mesmerized</em>.
+<ul>
+<li>Mesmerized Effect: Reduces damage dealt by 10% and increases damage taken by 5%</li>
+<li>Duration: 100s</li>
+<li>Cannot be stacked with Canoneer's <em>Silver Sickness.</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
 </div>
 </article>
 <article>
@@ -4167,7 +4314,7 @@
 <tr>
 <td style="border-style: solid; border-width: 1px;"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Arcanite_icon1.png" alt="" width="30" height="30" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Arcanite_icon1-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Arcanite_icon1-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Arcanite_icon1-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Arcanite_icon1-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Arcanite_icon1-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Arcanite_icon1-2xl.png 1920w"></figure></td>
 <td style="border-style: solid; border-width: 1px;"><a href="https://ffxiv.consolegameswiki.com/wiki/Ermina#vendor1" target="_blank" rel="noopener noreferrer">Ermina</a> @ <a data-tooltip-position="top" aria-label="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" rel="noopener nofollow" class="external-link" href="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" target="_blank">Phantom Village (7, 7)</a></td>
-<td style="border-style: solid; border-width: 1px;"><span class="internal-embed media-embed image-embed is-loaded"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/20px-Allagan_Tomestone_of_Heliometry.png" alt="" width="20" height="20" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-xs.png 640w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-sm.png 768w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-md.png 1024w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-2xl.png 1920w"></figure> 500</span></td>
+<td style="border-style: solid; border-width: 1px;"><span class="internal-embed media-embed image-embed is-loaded"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Allagan_Tomestone_of_Mathematics-3.png" alt="" width="20" height="20" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-3-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-3-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-3-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-3-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-3-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-3-2xl.png 1920w"></figure> 500</span></td>
 </tr>
 </tbody>
 </table>
@@ -4305,13 +4452,238 @@
 <tr>
 <td style="border-style: solid; border-width: 1px;"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Waxing_arcanite_icon1.png" alt="" width="30" height="30" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Waxing_arcanite_icon1-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Waxing_arcanite_icon1-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Waxing_arcanite_icon1-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Waxing_arcanite_icon1-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Waxing_arcanite_icon1-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Waxing_arcanite_icon1-2xl.png 1920w"></figure></td>
 <td style="border-style: solid; border-width: 1px;"><a href="https://ffxiv.consolegameswiki.com/wiki/Ermina#vendor1" target="_blank" rel="noopener noreferrer">Ermina</a> @ <a data-tooltip-position="top" aria-label="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" rel="noopener nofollow" class="external-link" href="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" target="_blank">Phantom Village (7, 7)</a></td>
-<td style="border-style: solid; border-width: 1px;"><span class="internal-embed media-embed image-embed is-loaded"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/20px-Allagan_Tomestone_of_Heliometry.png" alt="" width="20" height="20" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-xs.png 640w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-sm.png 768w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-md.png 1024w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/20px-Allagan_Tomestone_of_Heliometry-2xl.png 1920w"></figure> 500</span></td>
+<td style="border-style: solid; border-width: 1px;"><span class="internal-embed media-embed image-embed is-loaded"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Allagan_Tomestone_of_Mathematics-2.png" alt="" width="20" height="20" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2-2xl.png 1920w"></figure> 500</span></td>
 </tr>
 </tbody>
 </table>
 </article>
-</section>
 <hr>
+<article id="timeworn">
+<div class="timeworn-flex" style="display: flex;">
+<div style="flex: 1; text-align: left; margin-right: 1em;">
+<h3>6 - Timeworn Techniques</h3>
+</div>
+<div style="flex 1; text-align: right;">
+<figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Timeworn_techniques1.png" alt="" width="376" height="120" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Timeworn_techniques1-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Timeworn_techniques1-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Timeworn_techniques1-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Timeworn_techniques1-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Timeworn_techniques1-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Timeworn_techniques1-2xl.png 1920w"></figure>
+</div>
+</div>
+<blockquote>
+<p>Lydirceil seems unusually enthused.</p>
+</blockquote>
+<p>This step, it's just some talking and delivery of materials requested by our man Gerolt and hey it's not booze this time so we're improving!</p>
+<p>The quest will have you talk to the <strong>expedition archaeologist</strong> in the <a href="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" target="_blank" rel="noopener noreferrer">Phantom Village</a> (x: 4.9 y: 7.3).</p>
+<p>You can get some exposition and lore on this part, if you're into that stuff ♥!</p>
+<p>Now that we get into the weeds with this step, these are the items you need, keep in mind that some of them you can craft them if you're a crafting enjoyer, otherwise, you can always fetch them for gil at the marketboard.</p>
+<p>Sadly, this won't apply to everything, and the Umbral Clay must be purchased from <a href="https://ffxiv.consolegameswiki.com/wiki/Goplu#vendor20" title="Goplu">Goplu</a> at <a href="https://ffxiv.consolegameswiki.com/wiki/Tuliyollal" title="Tuliyollal">Tuliyollal</a> (x:13.1 y:12.7) for a pretty peny I might add!</p>
+<p>Here's the shopping list.</p>
+<table style="width: 100%; height: 100px;">
+<thead>
+<tr>
+<th style="border-style: solid; border-width: 1px; width: 36.8046%;"><strong>Items</strong></th>
+<th style="border-style: solid; border-width: 1px; width: 38.9444%;"><strong>Obtained from</strong></th>
+<th style="border-style: solid; border-width: 1px; width: 24.2511%;"><strong>Cost</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 36.8046%;">Umbral Clay</td>
+<td style="border-style: solid; border-width: 1px; width: 38.9444%;"><a href="https://ffxiv.consolegameswiki.com/wiki/Goplu#vendor20" title="Goplu">Goplu</a> at <a href="https://ffxiv.consolegameswiki.com/wiki/Tuliyollal" title="Tuliyollal">Tuliyollal</a> (x:13.1 y:12.7)</td>
+<td style="border-style: solid; border-width: 1px; width: 24.2511%;"><span class="internal-embed media-embed image-embed is-loaded"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/46px-Gil.png" alt="" width="20" height="20" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/46px-Gil-xs.png 640w ,https://weyway.com/media/posts/21/responsive/46px-Gil-sm.png 768w ,https://weyway.com/media/posts/21/responsive/46px-Gil-md.png 1024w ,https://weyway.com/media/posts/21/responsive/46px-Gil-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/46px-Gil-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/46px-Gil-2xl.png 1920w"></figure> 500.000</span></td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 36.8046%;">Aspected Aether Agglomerate</td>
+<td style="border-style: solid; border-width: 1px; width: 38.9444%;">Crafted or Marketboard</td>
+<td style="border-style: solid; border-width: 1px; width: 24.2511%;"><span class="internal-embed media-embed image-embed is-loaded">Market dependant</span></td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 36.8046%;">Aspected Aetheroconductor</td>
+<td style="border-style: solid; border-width: 1px; width: 38.9444%;">Crafted or Marketboard</td>
+<td style="border-style: solid; border-width: 1px; width: 24.2511%;"><span class="internal-embed media-embed image-embed is-loaded">Market dependant</span></td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 36.8046%;">Aspected Aetherocatalyst</td>
+<td style="border-style: solid; border-width: 1px; width: 38.9444%;">Crafted or Marketboard</td>
+<td style="border-style: solid; border-width: 1px; width: 24.2511%;"><span class="internal-embed media-embed image-embed is-loaded">Market dependant</span></td>
+</tr>
+</tbody>
+</table>
+<p class="msg msg--warning">Keep in mind if you're going to craft these, you'll need to have the respective <strong>Master XII</strong> books for each of the required jobs and have to achieve a max quality score of 14200 out of 14204 to succeed. These are 4 star recipes.</p>
+<p>At least we only have to do this once, pheew!</p>
+</article>
+<hr>
+<article id="perfection-pursuit">
+<div class="perfection-pursuit-flex" style="display: flex;">
+<div style="flex: 1; text-align: left; margin-right: 1em;">
+<h3>7 - In Pursuit of Perfection</h3>
+</div>
+<div style="flex 1; text-align: right;">
+<p> </p>
+</div>
+</div>
+<blockquote>
+<p>Lydirceil is pondering the next step forward.</p>
+</blockquote>
+<p>Time for the "grind" step.</p>
+<p>On this part, we'll need to collect <a href="https://ffxiv.consolegameswiki.com/wiki/Crystal_Paste" title="Crystal Paste">Crystal Paste</a>.</p>
+<p>While the quest is split between 4 separate delivery steps, each requiring even more paste, the total amount needed is 1200 paste. (These will go on your inventory and are stackable up to 999.)</p>
+<p>Since nothing will happen besides progressing the quest with every new stepp, a suggestion to avoid worrying about it is not turning the quest in, getting the 1200 paste you need, then turn all the steps in one go. Just be aware that the stack will cap at 999 so pay attention to the second stack which should go to 201. 😊</p>
+<p>Either way, if you prefer the shorter goals, the deliveries are split per quest with the first quest requiring 100 paste, the second requiring 200, the third 300, and the fourth and final step asking for a whooping 600 paste to complete.</p>
+<p>Any extra paste you get will not be used for anything else</p>
+<p>This paste thingie can be collected from multiple sources and it should take a bit to grind.</p>
+<p>At least, this time around, there are no daily caps, so everytime you do any of these, you will get the same amount.</p>
+<p>Here's the list:</p>
+<table style="width: 100%; height: 100px;">
+<thead>
+<tr>
+<th style="border-style: solid; border-width: 1px; width: 48.6448%;"><strong>Duty</strong></th>
+<th style="border-style: solid; border-width: 1px; width: 51.3552%;"><strong>Crystal Paste</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;" width="522">Duty Roulette: Expert</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;" width="86">15</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Duty Roulette: Level Cap Dungeons</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">15</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Duty Roulette: Leveling</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">20</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">The Occult Crescent: South Horn Critical Encounters (Forked Tower excluded)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">5</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 1-10)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">10</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 11-20)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">11</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 21-30)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">12</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 31-40)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">13</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 41-50)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">15</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 51-60)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">17</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 61-70)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">21</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 71-80)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">26</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 81-90)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">26</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Pilgrim's Traverse (Stones 91-100)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">26</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">The Final Verse (Quantum) (Difficulty level does not affect paste reward)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">7</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M1</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">8</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M2</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">8</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M3</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">8</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M4</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">8</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M1 (Savage)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">10</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M2 (Savage)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">11</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M3 (Savage)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">11</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">AAC Heavyweight M4 (Savage)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">18</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">Hell on Rails (Extreme)</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">9</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-width: 1px; width: 48.6448%;">FATEs in Dawntrail zones</td>
+<td style="border-style: solid; border-width: 1px; width: 51.3552%;">3</td>
+</tr>
+</tbody>
+</table>
+<p>Do not stress too much about this step, just do it as it goes, however if you'd like to go crazy grinding this, the best rewards seem to be from <strong>Pilgrim's Traverse </strong>71+ or if that seems too daunting, running endless <strong>Leveling Roulettes</strong> is also a good option.</p>
+<p class="msg msg--success">You can collect the crystal paste even if you're not using the relic, as well as by using any job! If you're doing roulette, try to use the role in need so you get faster queues as well as extra rewards!</p>
+<p>You'll get a new interface for this step as well, so you can keep track of your voidsent (forced) friend!</p>
+<p>You can get back to this interface at any point either by clicking on the tiny icon near the quest name on the quest list, or by going to your inventory's Key Items &amp; Crystals tab.</p>
+<figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/crystalpaste.png" alt="" width="855" height="538" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/crystalpaste-xs.png 640w ,https://weyway.com/media/posts/21/responsive/crystalpaste-sm.png 768w ,https://weyway.com/media/posts/21/responsive/crystalpaste-md.png 1024w ,https://weyway.com/media/posts/21/responsive/crystalpaste-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/crystalpaste-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/crystalpaste-2xl.png 1920w"></figure>
+</article>
+<hr>
+<article id="phantom-reborn">
+<div class="phantom-reborn-flex" style="display: flex;">
+<div style="flex: 1; text-align: left; margin-right: 1em;">
+<h3>8 - A Phantom Reborn</h3>
+</div>
+<div style="flex 1; text-align: right;">
+<p> </p>
+</div>
+</div>
+<blockquote>
+<p>Lydirceil would see your phantom weapon further enhanced.</p>
+</blockquote>
+<p>After all that paste farming, we're finally rewarded with the repeatable step of this tier.</p>
+<p>This is an easy last step, although it will require weekly grinding of tomestones.</p>
+<p>This time, we'll need a new ore called <strong>Waning Arcanite</strong> to turn in for each weapon you wish to receive.</p>
+<p>Similarly to the previous steps, it requires 3 ores that you can buy for a total of <strong>1500</strong> tomestones at the npc in the Phantom Village.</p>
+<p>As is common with previous relic weapons, you'll need to have the weapon and the arcanite <strong>in your inventory</strong>. Should you be using it as your main weapon, make sure to bring along a placeholder fodder weapon.</p>
+<table style="width: 100%; height: 100px;">
+<thead>
+<tr>
+<th style="border-style: solid; border-width: 1px;"><strong>Waning Arcanite</strong></th>
+<th style="border-style: solid; border-width: 1px;"><strong>Location</strong></th>
+<th style="border-style: solid; border-width: 1px;"><strong>Each</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-style: solid; border-width: 1px;"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Waning_arcanite_icon1.png" alt="" width="30" height="30" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Waning_arcanite_icon1-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Waning_arcanite_icon1-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Waning_arcanite_icon1-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Waning_arcanite_icon1-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Waning_arcanite_icon1-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Waning_arcanite_icon1-2xl.png 1920w"></figure></td>
+<td style="border-style: solid; border-width: 1px;"><a href="https://ffxiv.consolegameswiki.com/wiki/Ermina#vendor1" target="_blank" rel="noopener noreferrer">Ermina</a> @ <a data-tooltip-position="top" aria-label="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" rel="noopener nofollow" class="external-link" href="https://ffxiv.consolegameswiki.com/wiki/Phantom_Village" target="_blank">Phantom Village (7, 7)</a></td>
+<td style="border-style: solid; border-width: 1px;"><span class="internal-embed media-embed image-embed is-loaded"><figure class="post__image"><img loading="lazy"  src="https://weyway.com/media/posts/21/Allagan_Tomestone_of_Mathematics.png" alt="" width="20" height="20" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-xs.png 640w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-sm.png 768w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-md.png 1024w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-lg.png 1366w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-xl.png 1600w ,https://weyway.com/media/posts/21/responsive/Allagan_Tomestone_of_Mathematics-2xl.png 1920w"></figure> 500</span></td>
+</tr>
+</tbody>
+</table>
+</article>
+<hr></section>
 <section id="credits">
 <h6 class="el-p align-left">Data collected from</h6>
 <ul>
